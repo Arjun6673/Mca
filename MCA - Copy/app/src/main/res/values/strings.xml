@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MCA</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mca_notes">MCA NOTES</string>
+    <string name="dddd">dfsjklakldfjkaj fdsa afsdkfj jasdjf fdaskjfjk jadkfjasdfkjkljfdajjdsfkl jfkdakjfjakjkfjkajsdkfklasdfkl</string>
+    <string name="not">Notes</string>
+</resources>
